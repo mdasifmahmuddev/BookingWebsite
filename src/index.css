@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@plugin "daisyui";
+
+.btn-design{ 
+    @apply btn border-none  hover:text-white btn-xs p-4 mt-2 font-bold text-purple-700 hover:bg-purple-300 ;
+}

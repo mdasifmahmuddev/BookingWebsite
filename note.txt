@@ -1,0 +1,4 @@
+
+1. make container and then pass other component in container for basic desing .. 
+
+ className = container  mx-auto 
